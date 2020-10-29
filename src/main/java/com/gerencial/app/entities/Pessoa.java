@@ -23,6 +23,7 @@ public class Pessoa {
     @Column(name = "TELEFONE")
     private Integer telefone;
 
+
    /* public String getNome(){
         return this.nome;
     }
